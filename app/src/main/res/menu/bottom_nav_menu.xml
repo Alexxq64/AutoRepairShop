@@ -9,26 +9,26 @@
     <item
         android:id="@+id/navigation_services"
         android:title="Услуги"
-        android:icon="@drawable/ic_appointments" />
+        android:icon="@drawable/ic_services" />
 
     <item
         android:id="@+id/navigation_products"
         android:title="Товары"
-        android:icon="@drawable/ic_appointments" />
+        android:icon="@drawable/ic_products" />
 
     <item
         android:id="@+id/navigation_blog"
         android:title="Блог"
-        android:icon="@drawable/ic_appointments" />
+        android:icon="@drawable/ic_blog" />
 
     <item
         android:id="@+id/navigation_workshops"
         android:title="Контакты"
-        android:icon="@drawable/ic_appointments" />
+        android:icon="@drawable/ic_workshops" />
 
     <item
         android:id="@+id/navigation_yclients"
-        android:title="Онлайн-запись"
-        android:icon="@drawable/ic_appointments" />
+        android:title="Онлайн"
+        android:icon="@drawable/ic_yclients" />
 
 </menu>
